@@ -2,13 +2,13 @@
 
 An online bakery and desserts business focused on selling cakes and sweet treats. The brand revolves around indulgent, handcrafted confections with a warm and inviting atmosphere that appeals to dessert lovers.
 
-Source: https://-586a01f4.zappy5.app
+Source: https://example.com
 
 ---
 
 ## הזמינו ממתוקים שנמסים בפה עד הבית — המתוקים של דניאלה
 
-URL: https://-586a01f4.zappy5.app
+URL: https://example.com
 Description: מאפייה און ליין עם קינוחים מעוצבים בעבודת יד, עוגות חלומיות ומשלוחים מתוקים לכל אירוע. פנקו את עצמכם במתוקים הכי טריים ברשת — התחילו להזמין עכשיו!
 
 הזמינו ממתוקים שנמסים בפה עד הבית — המתוקים של דניאלה
@@ -449,7 +449,7 @@ Description: מאפייה און ליין עם קינוחים מעוצבים ב�
 
 ## עצבו את החלום המתוק שלכם בהתאמה אישית — המתוקים של דניאלה
 
-URL: https://-586a01f4.zappy5.app/custom-cakes
+URL: https://example.com/custom-cakes
 Description: עוגות בעיצוב אישי לכל חגיגה — ימי הולדת, ימי נישואין וכל סיבה למתוק. הפכו כל רעיון לקינוח מרהיב שכולו שלכם. צרו איתנו קשר והתחילו לעצב את העוגה המושלמת!
 
 עצבו את החלום המתוק שלכם בהתאמה אישית — המתוקים של דניאלה
@@ -904,7 +904,7 @@ Description: עוגות בעיצוב אישי לכל חגיגה — ימי הו�
 
 ## צללו לגלריית פיתויים שלא תוכלו לעמוד בפניהם — המתוקים של דניאלה
 
-URL: https://-586a01f4.zappy5.app/gallery
+URL: https://example.com/gallery
 Description: גלו מגוון עוצר נשימה של קינוחים, עוגות ומתוקים מעוצבים שיעשו לכם חשק לטעום. כל תמונה היא הזמנה לעולם של טעמים — היכנסו לגלריה וקבלו השראה להזמנה הבאה!
 
 צללו לגלריית פיתויים שלא תוכלו לעמוד בפניהם — המתוקים של דניאלה
@@ -1315,7 +1315,7 @@ Description: גלו מגוון עוצר נשימה של קינוחים, עוגו
 
 ## הכירו את התשוקה שמאחורי כל ביס מושלם — המתוקים של דניאלה
 
-URL: https://-586a01f4.zappy5.app/about
+URL: https://example.com/about
 Description: הסיפור של המתוקים של דניאלה מתחיל באהבה לקונדיטוריה איכותית. גלו מי אנחנו, איך אנחנו יוצרים קסמים מתוקים, ולמה כל קינוח שלנו הוא חוויה בלתי נשכחת. בואו להכיר את הקסם מקרוב!
 
 הכירו את התשוקה שמאחורי כל ביס מושלם — המתוקים של דניאלה
@@ -1750,7 +1750,7 @@ Description: הסיפור של המתוקים של דניאלה מתחיל בא�
 
 ## דברו איתנו ונתחיל לתכנן את המתוק הבא שלכם — המתוקים של דניאלה
 
-URL: https://-586a01f4.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש לכם רעיון לעוגה או שאלה על הקינוחים שלנו? מלאו את הטופס, שלחו הודעה, ואנחנו נחזור אליכם עם כל המתיקות שבעולם. בואו נתחיל ליצור יחד את הפינוק המושלם!
 
 דברו איתנו ונתחיל לתכנן את המתוק הבא שלכם — המתוקים של דניאלה
@@ -2227,7 +2227,7 @@ Description: יש לכם רעיון לעוגה או שאלה על הקינוחי
 
 ## מוצרים
 
-URL: https://-586a01f4.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - המתוקים של דניאלה
 
 מוצרים - המתוקים של דניאלה
@@ -2593,7 +2593,7 @@ Description: המוצרים שלנו - המתוקים של דניאלה
 
 ## פרטי המוצר
 
-URL: https://-586a01f4.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - המתוקים של דניאלה
 
 פרטי המוצר - המתוקים של דניאלה
@@ -2803,7 +2803,7 @@ Description: פרטי המוצר - המתוקים של דניאלה
 
 ## מוצרים
 
-URL: https://-586a01f4.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - המתוקים של דניאלה
 
 מוצרים - המתוקים של דניאלה
@@ -3037,7 +3037,7 @@ Description: מוצרים - המתוקים של דניאלה
 
 ## מדיניות פרטיות
 
-URL: https://-586a01f4.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -3313,7 +3313,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-586a01f4.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -3598,7 +3598,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-586a01f4.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -3902,7 +3902,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה שפניתם אלינו
 
-URL: https://-586a01f4.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: המתוקים של דניאלה - תודה שפניתם אלינו
 
 תודה שפניתם אלינו

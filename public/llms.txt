@@ -7,53 +7,53 @@
 ## Pages
 
 ### בית
-https://-586a01f4.zappy5.app
+https://example.com
 מאפייה און ליין עם קינוחים מעוצבים בעבודת יד, עוגות חלומיות ומשלוחים מתוקים לכל אירוע. פנקו את עצמכם במתוקים הכי טריים ברשת — התחילו להזמין עכשיו!
 
 ### עוגות בעיצוב אישי
-https://-586a01f4.zappy5.app/custom-cakes
+https://example.com/custom-cakes
 עוגות בעיצוב אישי לכל חגיגה — ימי הולדת, ימי נישואין וכל סיבה למתוק. הפכו כל רעיון לקינוח מרהיב שכולו שלכם. צרו איתנו קשר והתחילו לעצב את העוגה המושלמת!
 
 ### גלריה
-https://-586a01f4.zappy5.app/gallery
+https://example.com/gallery
 גלו מגוון עוצר נשימה של קינוחים, עוגות ומתוקים מעוצבים שיעשו לכם חשק לטעום. כל תמונה היא הזמנה לעולם של טעמים — היכנסו לגלריה וקבלו השראה להזמנה הבאה!
 
 ### אודות
-https://-586a01f4.zappy5.app/about
+https://example.com/about
 הסיפור של המתוקים של דניאלה מתחיל באהבה לקונדיטוריה איכותית. גלו מי אנחנו, איך אנחנו יוצרים קסמים מתוקים, ולמה כל קינוח שלנו הוא חוויה בלתי נשכחת. בואו להכיר את הקסם מקרוב!
 
 ### צור קשר
-https://-586a01f4.zappy5.app/contact
+https://example.com/contact
 יש לכם רעיון לעוגה או שאלה על הקינוחים שלנו? מלאו את הטופס, שלחו הודעה, ואנחנו נחזור אליכם עם כל המתיקות שבעולם. בואו נתחיל ליצור יחד את הפינוק המושלם!
 
 ### Products
-https://-586a01f4.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - המתוקים של דניאלה
 
 ### Product Detail
-https://-586a01f4.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - המתוקים של דניאלה
 
 ### Category
-https://-586a01f4.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - המתוקים של דניאלה
 
 ### תודה שפניתם אלינו
-https://-586a01f4.zappy5.app/thank-you
+https://example.com/thank-you
 המתוקים של דניאלה - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-586a01f4.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-586a01f4.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-586a01f4.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -84,8 +84,8 @@ Bakery & Desserts
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-586a01f4.zappy5.app/sitemap.xml
-- Robots: https://-586a01f4.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-586a01f4.zappy5.app/llms-full.txt
-- Products (JSON): https://-586a01f4.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-586a01f4.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
