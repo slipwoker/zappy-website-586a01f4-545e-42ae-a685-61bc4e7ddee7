@@ -1,0 +1,91 @@
+# המתוקים של דניאלה — Generative Engine Optimization Map
+
+> An online bakery and desserts business focused on selling cakes and sweet treats. The brand revolves around indulgent, handcrafted confections with a warm and inviting atmosphere that appeals to dessert lovers.
+
+---
+
+## Pages
+
+### בית
+https://-586a01f4.zappy5.app
+מאפייה און ליין עם קינוחים מעוצבים בעבודת יד, עוגות חלומיות ומשלוחים מתוקים לכל אירוע. פנקו את עצמכם במתוקים הכי טריים ברשת — התחילו להזמין עכשיו!
+
+### עוגות בעיצוב אישי
+https://-586a01f4.zappy5.app/custom-cakes
+עוגות בעיצוב אישי לכל חגיגה — ימי הולדת, ימי נישואין וכל סיבה למתוק. הפכו כל רעיון לקינוח מרהיב שכולו שלכם. צרו איתנו קשר והתחילו לעצב את העוגה המושלמת!
+
+### גלריה
+https://-586a01f4.zappy5.app/gallery
+גלו מגוון עוצר נשימה של קינוחים, עוגות ומתוקים מעוצבים שיעשו לכם חשק לטעום. כל תמונה היא הזמנה לעולם של טעמים — היכנסו לגלריה וקבלו השראה להזמנה הבאה!
+
+### אודות
+https://-586a01f4.zappy5.app/about
+הסיפור של המתוקים של דניאלה מתחיל באהבה לקונדיטוריה איכותית. גלו מי אנחנו, איך אנחנו יוצרים קסמים מתוקים, ולמה כל קינוח שלנו הוא חוויה בלתי נשכחת. בואו להכיר את הקסם מקרוב!
+
+### צור קשר
+https://-586a01f4.zappy5.app/contact
+יש לכם רעיון לעוגה או שאלה על הקינוחים שלנו? מלאו את הטופס, שלחו הודעה, ואנחנו נחזור אליכם עם כל המתיקות שבעולם. בואו נתחיל ליצור יחד את הפינוק המושלם!
+
+### Products
+https://-586a01f4.zappy5.app/products
+המוצרים שלנו - המתוקים של דניאלה
+
+### Product Detail
+https://-586a01f4.zappy5.app/product/:slug
+פרטי המוצר - המתוקים של דניאלה
+
+### Category
+https://-586a01f4.zappy5.app/category/:slug
+מוצרים - המתוקים של דניאלה
+
+### תודה שפניתם אלינו
+https://-586a01f4.zappy5.app/thank-you
+המתוקים של דניאלה - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-586a01f4.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-586a01f4.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-586a01f4.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About המתוקים של דניאלה
+An online bakery and desserts business focused on selling cakes and sweet treats. The brand revolves around indulgent, handcrafted confections with a warm and inviting atmosphere that appeals to dessert lovers.
+
+## Services/Products
+- עוגות
+- קינוחים
+
+## Target Audience
+- מארגני ימי הולדת
+- קונים מתנות לחגים
+
+## Industry
+Bakery & Desserts
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-586a01f4.zappy5.app/sitemap.xml
+- Robots: https://-586a01f4.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-586a01f4.zappy5.app/llms-full.txt
+- Products (JSON): https://-586a01f4.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-586a01f4.zappy5.app/product-feed.xml
